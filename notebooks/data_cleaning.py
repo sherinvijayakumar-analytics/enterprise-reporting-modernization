@@ -21,4 +21,4 @@ df.columns = df.columns.str.lower()
 # Save cleaned data
 df.to_csv("../data/hospital_admissions_cleaned.csv", index=False)
 
-print("✅ Healthcare data cleaned and saved successfully.")
+print("Healthcare data cleaned and saved successfully.")
