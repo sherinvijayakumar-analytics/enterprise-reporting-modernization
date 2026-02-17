@@ -1,0 +1,16 @@
+patient_id,admission_date,discharge_date,department_id,diagnosis,gender,age,admission_type,length_of_stay
+P001,2023-01-05,2023-01-10,1,Hypertension,F,56,Emergency,5
+P002,2023-01-06,2023-01-08,4,Fracture,M,34,Emergency,2
+P003,2023-01-07,2023-01-14,3,Stroke,F,67,Emergency,7
+P004,2023-01-08,2023-01-09,2,Flu,M,28,Planned,1
+P005,2023-01-10,2023-01-15,1,Arrhythmia,M,62,Planned,5
+P006,2023-02-01,2023-02-05,5,Asthma,F,9,Emergency,4
+P007,2023-02-03,2023-02-04,2,Fever,F,41,Planned,1
+P008,2023-02-06,2023-02-12,4,Joint Replacement,M,59,Planned,6
+P009,2023-02-10,2023-02-18,3,Epilepsy,F,45,Emergency,8
+P010,2023-02-12,2023-02-14,1,Heart Failure,M,71,Emergency,2
+P011,2023-03-01,2023-03-06,2,Diabetes,F,52,Planned,5
+P012,2023-03-04,2023-03-09,5,Bronchitis,M,6,Emergency,5
+P013,2023-03-07,2023-03-10,4,Arthritis,F,64,Planned,3
+P014,2023-03-10,2023-03-20,3,Brain Injury,M,38,Emergency,10
+P015,2023-03-15,2023-03-18,1,Chest Pain,F,49,Emergency,3
